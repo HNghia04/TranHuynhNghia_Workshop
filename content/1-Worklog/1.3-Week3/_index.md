@@ -6,10 +6,6 @@ chapter: false
 pre: " <b> 1.3. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ The content below was prepared for the internship report and documents the work completed during this week.
-{{% /notice %}}
-
 ## Week 3 Objectives
 
 * Study Amazon EC2 and learn how to deploy servers on AWS.

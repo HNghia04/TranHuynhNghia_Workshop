@@ -6,10 +6,6 @@ chapter: false
 pre: " <b> 1.2. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ The content below was prepared for the internship report and documents the work completed during this week.
-{{% /notice %}}
-
 ## Week 2 Objectives
 
 * Study the Serverless architecture on AWS.

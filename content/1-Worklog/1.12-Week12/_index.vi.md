@@ -6,10 +6,6 @@ chapter: false
 pre: " <b> 1.12. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ Nội dung dưới đây được xây dựng phục vụ báo cáo thực tập và ghi nhận quá trình thực hiện trong tuần.
-{{% /notice %}}
-
 ## Mục tiêu tuần 12
 
 * Hoàn thiện báo cáo thực tập tốt nghiệp.

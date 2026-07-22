@@ -6,12 +6,6 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The content below was prepared for the internship report and documents the activities carried out throughout the internship period.
-{{% /notice %}}
-
-**This page** provides an overview of the internship worklog, the internship timeline, and the tasks completed during each week.
-
 The internship program was conducted over a period of approximately three months, from **May 5, 2026** to **July 29, 2026**, spanning a total of **12 weeks**. The internship focused on researching, designing, and implementing a **Multiplayer Game Backend Architecture** on **Amazon Web Services (AWS)**.
 
 The weekly activities are summarized as follows:

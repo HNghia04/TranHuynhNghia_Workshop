@@ -6,9 +6,6 @@ chapter: false
 pre: " <b> 1.8. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ The content below was prepared for the internship report and documents the work completed during this week.
-{{% /notice %}}
 
 ## Week 8 Objectives
 

@@ -6,10 +6,6 @@ chapter: false
 pre: " <b> 1.3. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ Nội dung dưới đây được xây dựng phục vụ báo cáo thực tập và ghi nhận quá trình thực hiện trong tuần.
-{{% /notice %}}
-
 ## Mục tiêu tuần 3
 
 * Tìm hiểu dịch vụ Amazon EC2 và cách triển khai máy chủ trên AWS.

@@ -6,10 +6,6 @@ chapter: false
 pre: " <b> 1.1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ The content below was prepared for the internship report and documents the work completed during this week.
-{{% /notice %}}
-
 ## Week 1 Objectives
 
 * Become familiar with the internship environment at Amazon Web Services Vietnam.

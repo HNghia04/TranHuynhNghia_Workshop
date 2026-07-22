@@ -6,12 +6,6 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Nội dung bên dưới được xây dựng để phục vụ báo cáo thực tập và ghi nhận quá trình thực hiện trong suốt kỳ thực tập.
-{{% /notice %}}
-
-**Tại trang này**, nội dung trình bày tổng quan về nhật ký thực tập, thời gian thực hiện chương trình và các công việc đã hoàn thành theo từng tuần.
-
 Chương trình thực tập được thực hiện trong khoảng 3 tháng, từ ngày 05/05/2026 đến ngày 29/07/2026, với tổng cộng 12 tuần. Nội dung công việc tập trung vào việc nghiên cứu, thiết kế và triển khai kiến trúc Backend cho game multiplayer trên nền tảng Amazon Web Services.
 
 Các nội dung thực hiện theo từng tuần gồm:
